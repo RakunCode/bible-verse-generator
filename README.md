@@ -28,7 +28,7 @@ Bible API (wldeh)
 
 ## 📦 Instalación
 
-git clone https://github.com/tu-usuario/bible-random-verse-api.git
-cd bible-random-verse-api
+git clone https://github.com/rakunCode/bible-verse-generator.git
+cd bible-random-verse-generator
 npm install
 npm start
