@@ -19,6 +19,7 @@ Obtiene un versículo bíblico aleatorio en inglés (versión KJV)
   "reference": "john 3:16"
 }
 
+```
 ## 🛠️ Tecnologías
 
 Node.js
